@@ -22,7 +22,7 @@
     --members-width: 240px;
     --background-shading: 100%;
     --background-overlay: rgba(0, 0, 0, 0.6);
-    --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+    --background-image: url(https://i.imgur.com/7SbtKvw.png);
     --background-position: center;
     --background-size: cover;
     --background-repeat: no-repeat;
@@ -72,9 +72,9 @@
     --user-modal-grayscale: var(--background-grayscale);
     --user-modal-sepia: var(--background-sepia);
     --user-modal-blur: calc(var(--background-blur) + 3px);
-    --home-icon: url(https://clearvision.github.io/icons/discord.svg);
+    --home-icon: url(https://i.imgur.com/233d55Y.gif);
     --home-position: center;
-    --home-size: 40px;
+    --home-size: 55px;
     --popout-color: rgba(0, 0, 0, 0.8);
     --modal-color: rgba(0, 0, 0, 0.5);
     --bd-blue: var(--main-color);
@@ -493,7 +493,7 @@ body,button,input,select,textarea,::placeholder{
     order:1
 }
 .typeWindows-2-g3UY>.wordmark-2u86JB:before{
-    content:"ClearVision";
+    content:"Zariffs Theme";
     color:rgba(255,255,255,.7);
     font-size:14px;
     text-shadow:0 0 3px #000
@@ -549,13 +549,13 @@ body,button,input,select,textarea,::placeholder{
     order:1
 }
 .typeMacOS-3V4xXE:before{
-    content:"CV";
+    content:"Zariffs";
     color:var(--main-color);
     font-weight:700;
     text-shadow:0 0 3px
 }
 .typeMacOS-3V4xXE:after{
-    content:"6.3.0";
+    content:"1.0.5";
     color:rgba(255,255,255,.3)
 }
 .tabBar-1_P75h{
@@ -1072,7 +1072,7 @@ body,button,input,select,textarea,::placeholder{
     transition:all .5s ease-in-out
 }
 .theme-dark .container-YkUktl:before{
-    content:"ClearVision";
+    content:"Zariffs Theme";
     right:50%;
     text-align:right;
     transform:translateX(50%)
@@ -3286,6 +3286,10 @@ textarea::-webkit-scrollbar{
 .contents-2MsGLg>img[src*="309976820109803520"]~.header-2jRmjb>.headerText-2z4IhQ>.username-h_Y3Us::after{
     content:"Former CV Team"
 }
+.contents-2MsGLg>img[src*="1087006976506089472"]~.header-2jRmjb>.headerText-2z4IhQ>.username-h_Y3Us::after{
+    content:"Zariffs | Founder"
+}
+
 .message-2CShn3 .avatar-2e8lTP{
     transition:all .3s ease-in-out,transform .1s ease-in-out
 }
